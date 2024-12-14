@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Edson Villarroel</h2>
 
+- 👨‍💻 All of my personal projects are available at [https://edsonvillarroel.github.io/portfolio/](https://edsonvillarroel.github.io/portfolio/)
+- - 📫 How to reach me **villarroel.dev@gmail.com**
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -49,10 +52,12 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/edsonvillarroelricaldes/" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" href="https://www.instagram.com/edson_villarroel_ricaldes/" />
+  <a href="https://www.linkedin.com/in/edsonvillarroelricaldes/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/edson_villarroel_ricaldes/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
