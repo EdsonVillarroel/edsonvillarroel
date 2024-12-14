@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Edson Villarroel</h2>
 
 - 👨‍💻 All of my personal projects are available at [https://edsonvillarroel.github.io/portfolio/](https://edsonvillarroel.github.io/portfolio/)
-- - 📫 How to reach me **villarroel.dev@gmail.com**
+- 📫 How to reach me **villarroel.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EdsonVillarroel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonVillarroel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
